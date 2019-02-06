@@ -1,5 +1,3 @@
 test file update 
+Zero day trigger
 
-This is the first test trigger
-
-This is the second test trigger
